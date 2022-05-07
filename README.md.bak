@@ -5,3 +5,9 @@ learned push command
 how to remove merge conflict
 learned pull command
 
+<<<<<<< HEAD
+new change
+=======
+trying another pull request.
+Learning github commands.
+>>>>>>> 098b10667825a2920e101e0b9378c2fb5f7b1ad9
