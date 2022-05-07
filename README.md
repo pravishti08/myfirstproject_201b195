@@ -6,3 +6,4 @@ how to remove merge conflict
 learned pull command
 
 trying another pull request.
+Learning github commands.
